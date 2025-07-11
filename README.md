@@ -24,7 +24,6 @@ A simple and customizable password generator built using **C#** and **Windows Fo
 - **Language:** C#
 - **Framework:** .NET Framework (WinForms)
 - **IDE:** Visual Studio
-- (Optional) **UI Library:** Siticone UI / Guna UI2
 
 ---
 
@@ -33,4 +32,4 @@ A simple and customizable password generator built using **C#** and **Windows Fo
 1. Clone this repository:
    ```bash
    git clone https://github.com/Sify1999/CSharp-PasswordGen.git
-   
+2. Run the .exe file
